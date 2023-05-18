@@ -862,12 +862,12 @@ textarea {
 .skills__item::before {
   content: "<";
   margin-left: -12px;
-  color: #a42445;
+  color: #f18ba5;
 }
 
 .skills__item::after {
   content: ">";
-  color: #a42445;
+  color: #f18ba5;
 }
 
 .project {
